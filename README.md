@@ -1,12 +1,14 @@
-> If you see this section, you've just created a repository using [PoC Innovation's Open-Source project template](https://github.com/PoCInnovation/open-source-project-template). Check the [getting started guide](./.github/getting-started.md).
+# [Virtual No Ads]
 
-# [PROJECT'S NAME]
+Virtual No Ads is a project aimed at providing a more streamlined and pleasant browsing experience by filtering out unwanted ads from websites. It consists of two main parts:
 
-[Project's description]
+1) **Private WiFi network with Raspberry Pi:** Using a Raspberry Pi, Virtual No Ads creates a private WiFi network that filters out ad packages from websites. This means that any device connected to this network will have ads removed before they even reach the user's device, resulting in a faster and more enjoyable browsing experience.
+
+2) **Adblock software:** Virtual No Ads also provides a software component that can be installed on devices directly. This software functions as a traditional adblocker, filtering out ads as they are loaded on websites. The software is designed to be lightweight and easy to use, and can be customized to allow or block specific types of ads.
 
 ## How does it work?
 
-[Explain how this project is working]
+It work by itself
 
 ## Getting Started
 
